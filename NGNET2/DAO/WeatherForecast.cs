@@ -1,4 +1,4 @@
-namespace NGNET2
+namespace NGNET2.DAO
 {
     public class WeatherForecast
     {
